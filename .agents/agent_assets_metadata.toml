@@ -1,0 +1,14 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "4P3uSNiuqRlhdUWe2q09n"
+uri = "file://artifacts/portfolio/src/assets/avatar.png"
+type = "image"
+title = "Abstract silhouette avatar with green accent"
+
+[[generated]]
+id = "jfK5kc_AwZTYfniRvyRq_"
+uri = "file://artifacts/portfolio/src/assets/project-placeholder.png"
+type = "image"
+title = "Abstract dark green tech background"
